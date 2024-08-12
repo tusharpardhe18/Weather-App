@@ -19,12 +19,10 @@ Debounce the search functionality to avoid excessive API calls while typing.<br>
 Consider adding a default city or recent searches functionality.<br>
 <br>
 **4. Code Formatting:**<br>
-<br>
 Use consistent indentation and spacing for better code readability.<br>
 Add comments to explain complex logic or non-obvious parts of the code.<br>
 <br>
 **5. External Libraries:**<br>
-<br>
 Explore using a JavaScript library like Axios for cleaner API interaction.<br>
 Consider using a CSS framework like Bootstrap for easier styling and responsiveness.<br>
 <br>
