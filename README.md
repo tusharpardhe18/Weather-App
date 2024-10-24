@@ -17,7 +17,7 @@ This is a simple weather application that allows users to check the current weat
 ## Setup and Usage
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/username/weather-app.git
+   git clone https://github.com/tusharpardhe2018/Weather-App.git
 2. Open index.html in a web browser.
 3. Enter a city name in the search box and click the search button to get weather information.
 
